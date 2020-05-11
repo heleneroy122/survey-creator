@@ -33,7 +33,6 @@ var frenchTranslation = {
     expression: "Expression"
   },
   //Strings in Editor
- //Strings in Editor
   ed: {
     survey: "Questionnaire",
     editSurvey: "Éditer le questionnaire",
@@ -54,7 +53,7 @@ var frenchTranslation = {
     testSurvey: "Tester le questionnaire",
     testSurveyAgain: "Tester à nouveau le questionnaire",
     testSurveyWidth: "Largeur du questionnaire : ",
-	  logic: "Logique du questionnaire",
+    logic: "Logique du questionnaire",
     embedSurvey: "Intégrer le questionnaire",
     translation: "Traduction",
     saveSurvey: "Sauvegarder le questionnaire",
@@ -176,7 +175,7 @@ var frenchTranslation = {
   pe: {
     apply: "Appliquer",
     ok: "OK",
-	  save: "Enregistrer",
+    save: "Enregistrer",
     cancel: "Annuler",
     reset: "Réinitialiser",
     close: "Fermer",
@@ -188,7 +187,7 @@ var frenchTranslation = {
     addNone: "Aucun",
     removeAll: "Tout supprimer",	
     edit: "Éditer",
-	  back: "Retourner sans enregistrer",
+    back: "Retourner sans enregistrer",
     saveAndBack: "Enregistrer et retourner",
     move: "Déplacer",
     empty: "<vide>",
@@ -392,7 +391,7 @@ var frenchTranslation = {
       data: "Données",
       validation: "Validateurs",
       cells: "Cellules",
-	    showOnCompleted: "Afficher lorsque complété",
+      showOnCompleted: "Afficher lorsque complété",
       logo: "Logo dans le titre de l'enquête",
       others: "Autres",
     },
